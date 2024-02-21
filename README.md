@@ -1,6 +1,6 @@
 # A Hybrid Recommnendation System
 
-*This project is to build a movie recommendation system using hybrid integration on the Odoo platform involves creating a smart system that suggests movies based on user preferences and history. It combines machine learning and natural language processing to analyze data and provide personalized recommendations, enhancing user satisfaction and marketing potential.*
+*This project is to build a movie recommendation system using hybrid integration on the Odoo platform (in process) involves creating a smart system that suggests movies based on user preferences and history. It combines machine learning and natural language processing to analyze data and provide personalized recommendations, enhancing user satisfaction and marketing potential.*
 
 ## 1. Data
 
