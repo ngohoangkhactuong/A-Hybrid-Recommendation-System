@@ -21,7 +21,6 @@ Legend:
 
 RMSE:      Root Mean Squared Error. Lower values mean better accuracy.
 MAE:       Mean Absolute Error. Lower values mean better accuracy.
-
 ```
 ## 3. Models
 
